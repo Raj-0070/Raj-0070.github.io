@@ -11,4 +11,12 @@ After exploring various fields, I embarked on a transformative journey to innova
  - B.Tech ECE at SRM Institute Of Science & Technology
 
 ## Projects
+- Development Of Industrial Level Sensors
+NewGen IEDC (Govt. Of India) supported project to develop an Industrial liquid level sensor setup prototype
+- LiFi Based Wireless Data Transfer System
+This prototype enabled data transfer between two computers using Li-Fi (Light Fidelity). The system was based on photo transistor receivers and led transmitters.
+- Development of Home/Building Automation Product Line - Infinit-i Automation
+NewGen IEDC(Govt. Of India) Supported Project to develop AI integrated IoT based Home/Building Automation systems to increase energy efficiency and living conditions.
+- Wearable Safety Device For Workers
+This wearable device integrated with gas sensors was developed to alert workers in hazardous environments about their exposure to toxic gases.
 
