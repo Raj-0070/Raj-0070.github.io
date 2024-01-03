@@ -11,7 +11,7 @@ After exploring various fields, I embarked on a transformative journey to innova
 
 ## Education
  - B.Tech in ECE at SRM Institute Of Science & Technology (Ongoing)
-### Semester Wise Scores
+#### Semester Wise Scores
 
 | Semester | 1    | 2    | 3    | 4    |
 |----------|------|------|------|------|
