@@ -40,3 +40,9 @@ This wearable device integrated with gas sensors was developed to alert workers 
 - Intern at Malladi Drugs & Pharmaceuticals
 This opportunity allowed me to gain hands-on experience in the field of industrial automation, which aligns with the focus of my startup. During my tenure, I had the privilege to explore a wide range of aspects, including sensors commonly employed in the industry, communication protocols such as HART, ModBus, CAN, RS485, among others. Additionally I studied the utilisation of various PLCs and SCADA systems and the requisite standards and certifications required for electrical/electronic devices used in industrial settings.
 
+## Workshops
+- **Entrepreneurship Bootcamp**
+Organized by SRM Directorate of Entrepreneurship & Innovation and Inspired by Berkeley Method of Entrepreneurship (BMoE), A journey of experimental learning from the basics of setting up a Start-up to advanced strategies for growth and success
+- **Boeing Build Program**
+The Boeing University Innovation Leadership Development (BUILD) Program is the annual flagship aerospace innovation, leadership, and talent development program by Boeing India. 
+
