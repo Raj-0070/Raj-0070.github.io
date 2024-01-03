@@ -19,8 +19,8 @@ After exploring various fields, I embarked on a transformative journey to innova
 
 | Semester | 1    | 2    | 3    | 4    |
 |----------|------|------|------|------|
-| Cgpa     | 10   | 9.62 | 8.33 | 8.05 |
-| Sgpa     | 10   | 9.62 | 8.33 | 8.05 |
+| CGPA     | 10   | 9.62 | 8.33 | 8.05 |
+| SGPA     | 10   | 9.62 | 8.33 | 8.05 |
 | Ongoing Backlogs | 0 | 0 | 0 | 0 |
 | Total Backlogs   | 0 | 0 | 0 | 0 |
 
