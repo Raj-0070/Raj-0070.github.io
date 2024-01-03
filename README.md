@@ -2,6 +2,11 @@
 
 #### Technical Skills: Embedded Systems Design, Altium, IOT, Industrial Automation, Entrepreneurial Skills
 
+**Connect with me:**
+- [LinkedIn](https://www.linkedin.com/in/rajkumar-m13/)
+- [Company Website](https://www.reflowtech.com)
+
+
 ## Work Experience
 **Founder And Chief Technology Officer at ReFlow Technologies Pvt Ltd**
 After exploring various fields, I embarked on a transformative journey to innovate and develop solutions by co-founding a Start-up. It gave me the freedom to work on the technology I am passionate about. Currently we specialize in Industrial Automation where we provide comprehensive hardware and software based solutions for our clients. We are proud to have the support of esteemed organizations like SRM-DEI, New Gen IEDC and Startup India which have been instrumental in our growth and success. Since it is a startup, my roles and responsibilities are multi-faceted as I take on both a technical and managerial role. My technical responsibilities include but is not restricted to: embedded systems development, PCB design and development, testing and optimization of devices. My managerial responsibilities include making and managing workflow, facilitating intra and inter-organizational communication and networking.
