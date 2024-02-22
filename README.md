@@ -17,12 +17,12 @@ After exploring various fields, I embarked on a transformative journey to innova
  - B.Tech in ECE at SRM Institute Of Science & Technology (Ongoing)
 #### Semester Wise Scores
 
-| Semester | 1    | 2    | 3    | 4    |
-|----------|------|------|------|------|
-| CGPA     | 10   | 9.62 | 8.33 | 8.05 |
-| SGPA     | 10   | 9.62 | 8.33 | 8.05 |
-| Ongoing Backlogs | 0 | 0 | 0 | 0 |
-| Total Backlogs   | 0 | 0 | 0 | 0 |
+| Semester | 1    | 2    | 3    | 4    || 5    |
+|----------|------|------|------|------||------|
+| CGPA     | 10   | 9.81 | 9.32 | 9.0 || 8.82 |
+| SGPA     | 10   | 9.62 | 8.33 | 8.05 || 8.09 |
+| Ongoing Backlogs | 0 | 0 | 0 | 0 || 0 |
+| Total Backlogs   | 0 | 0 | 0 | 0 || 0 |
 
 ## Projects
 - **Development Of Industrial Level Sensors**
